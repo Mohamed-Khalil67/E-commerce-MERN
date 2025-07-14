@@ -84,14 +84,6 @@ A **full-stack e-commerce web application** built using the **MERN (MongoDB, Exp
 
 ---
 
-## **📷 Screenshots (Optional)**  
-
-| **Home Page** | **Product Page** | **Admin Dashboard** |
-|--------------|-----------------|---------------------|
-| ![Home](https://via.placeholder.com/400x200?text=Home+Page) | ![Product](https://via.placeholder.com/400x200?text=Product+Page) | ![Admin](https://via.placeholder.com/400x200?text=Admin+Dashboard) |
-
----
-
 ## **🔜 Future Improvements**  
 - **Payment Integration** (Stripe, PayPal)  
 - **Advanced Search & Filters**  
